@@ -302,6 +302,7 @@ a:not(.btn),
   justify-content: space-between;
   gap: 16px;
   width: min(1120px, calc(100% - 32px));
+  margin-inline: auto;
 }
 
 .logo {
